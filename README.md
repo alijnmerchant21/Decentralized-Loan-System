@@ -1,6 +1,6 @@
 # Decentralized-Loan-System
 
-White Paper - https://github.com/alijnmerchant21/Decentralized-Loan-System/blob/master/Documentation/White%20Paper.pdf
+White Paper - https://github.com/alijnmerchant21/Decentralized-Loan-System/blob/master/White%20Paper/White%20Paper.pdf
 
 A decentralized loan system designed and developed specifically for an organization catering to their respective demands. 
 
