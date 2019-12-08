@@ -4,7 +4,6 @@ White Paper - https://github.com/alijnmerchant21/Decentralized-Loan-System/blob/
 
 A decentralized loan system designed and developed specifically for an organization catering to their respective demands. 
 
-Abstract
 
 Decentralized Loan System is designed to address real world problems faced by ‘Loan Systems’ within a specific institution. The purpose of the paper is to demonstrate the benefits of Interest Free loans within a society. While – this kind of system is majorly based on a peer to peer system, we also introduce ‘Admin’ or ‘Administrator’ for uninterrupted operations within the institution. There are three major actors within the loan system – 
 Elite – They are responsible for donating funds within the institution.
